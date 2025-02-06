@@ -145,7 +145,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 28A62Z2G5F;
+				DEVELOPMENT_TEAM = P46LC6Y4N7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DocumentPickerControllerBug/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -158,7 +158,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.check.DocumentPickerControllerBug;
+				PRODUCT_BUNDLE_IDENTIFIER = com.check.DocumentPickerControllerBug2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -173,7 +173,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = 28A62Z2G5F;
+				DEVELOPMENT_TEAM = P46LC6Y4N7;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DocumentPickerControllerBug/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
@@ -186,7 +186,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.check.DocumentPickerControllerBug;
+				PRODUCT_BUNDLE_IDENTIFIER = com.check.DocumentPickerControllerBug2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
